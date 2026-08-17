@@ -35,8 +35,8 @@ img {
     background-color: #8FA28A;
     width: 1300px;
     max-width: calc(100vw - 50px);
+    margin: 0 auto;
     margin-bottom: 20px;
-    margin-left: 20px;
     padding: 10px;
 }
 
